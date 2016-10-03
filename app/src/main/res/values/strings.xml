@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Teste Zap</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome">Nome Completo*</string>
+    <string name="email">E-mail*</string>
+    <string name="telefone">Telefone*</string>
+    <string name="enviar">Enviar</string>
+    <string name="msg_anuncio">Olá tenho interesse no imóvel anunciado com o código: xxxx. \nAguardo o Retorno</string>
+    <string name="codigo_imovel">Código do Imovel:</string>
+    <string name="tipo_imovel">Tipo do Imóvel</string>
+    <string name="rua">Rua:</string>
+    <string name="cep">CEP</string>
+    <string name="complemento">Complemento:</string>
+    <string name="bairro">Bairro:</string>
+    <string name="cidade">Cidade:</string>
+    <string name="estado">Estado:</string>
+    <string name="zona">Zona:</string>
+    <string name="numero">Número:</string>
+    <string name="descricao">Descriçao do Imóvel</string>
+    <string name="dados_anuncio">Dados do Anúncio</string>
+    <string name="anunciante">Anunciante:</string>
+    <string name="Codigo_Anunciante">Código do Anunciante:</string>
+    <string name="data_Atualizacao">Data de Atualizacao:</string>
+    <string name="codigo_Imovel">Código do Imóvel:</string>
+    <string name="endereco">Endereço</string>
+    <string name="subtipo_Imovel">Subtipo do Imovel</string>
+    <string name="descricao_completa">Descrição Completa</string>
+    <string name="preco_venda">Preço de Venda</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="app_teste_zap"> Teste Programador Zap Imóveis.</string>
+    <string name="meu_email">UellissonLopes@gmail.com</string>
+    <string name="sobre_teste_zap">O Teste Zap é um aplicativo que exibe uma lista de imóveis e quando um item imóvel é selecionado, o usuário ver os detalhes do imóvel e pode enviar uma mensagem, mostrando interesse pelo mesmo.
+        \n\nEle foi desenvolvido por Uellisson Lopes da Silva, como parte da seleção para a vaga de programador Android na Zap Imóveis.
+        \n\nObs.: Todas as informações ficam disponíveis em um servidor web.</string>
+</resources>
