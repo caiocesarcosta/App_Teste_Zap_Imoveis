@@ -7,7 +7,7 @@ o usuário ver os detalhes do imóvel e pode enviar uma mensagem.
 
 Ele foi desenvolvido por Uellisson Lopes da Silva, como parte da seleção para a vaga de Programador Android na Zap Imóveis.
 
-Obs.: Todas as informações ficam disponíveis em um servidor web.
+Obs.: Todas as informações ficam disponíveis em um servidor web, que é acessado via Json, utilizando as bibliotecas Retrofit e Gson.
 
 Mais informações envie e-mail para uellissonlopes@gmail.com.
 
